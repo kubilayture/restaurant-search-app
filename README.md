@@ -1,6 +1,8 @@
-## React Project - Ravenous
+# Ravenous - Restaurant Search App
 
 A client-side React application, utilizing the Yelp API to search for local businesses.
+
+[You Can See the Project Here](https://kubilayture-ravenous-app.netlify.app/)
 
 ## Features
 
@@ -8,7 +10,7 @@ A client-side React application, utilizing the Yelp API to search for local busi
 - View a list of restaurants returned by the Yelp API
 - Sort through restaurants using a filter
 
-## List of some potential features will be added to Ravenous:
+## List of Some Potential Features Will Be Added:
 
 - Make addresses clickable and have them open the address in Google Maps in a new tab
 - Make images clickable and have them open the business’ website in a new tab
